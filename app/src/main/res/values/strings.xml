@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Note Keeper</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="exit">Exit</string>
+    <string name="add_a_note">Add a Note</string>
+    <string name="note_details">Add New Note Details</string>
+    <string name="my_personal_notes">My Personal Notes</string>
+</resources>
